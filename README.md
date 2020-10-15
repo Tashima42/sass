@@ -1,1 +1,2 @@
-# sass
+# Sass
+Repo for Sass exercises
